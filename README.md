@@ -5,4 +5,3 @@ Ask the membership number from customer
 Ask the number of items purchased.
 Ask total cost of all items.
 Create specific logics for calculation the total fee and tax (please visit on the source code).
-
